@@ -1,7 +1,8 @@
 # Help development
 Ajude-nos com recursos que você considere bom para desenvolvimento, seja para front end como beck end. Mostre o seu link.
 
-# Warning: matanha este patrão de sintax, para manter o conteudo bem organizado.
+### Warning: matanha este patrão de sintax, para manter o conteudo bem organizado.
+### No add image
 
 1 [lang] = (Graficos) eng (Graphics)
 - http://www.chartjs.org
@@ -17,5 +18,4 @@ Ajude-nos com recursos que você considere bom para desenvolvimento, seja para f
 
 5 [lang] = (Pacotes) eng (packet)
 Utilizado para baixa pacote pronto, exemplo CAPTCHA. 
-[![N|Solid](https://assets.change.org/photos/5/lh/ou/BElHoUUqfADSIGU-800x450-noPad.jpg?1519282724)](https://packagist.org)
 - https://packagist.org
